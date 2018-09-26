@@ -1,0 +1,3 @@
+#git is easy
+#git is not so easy to understand
+#git is little bit easy
